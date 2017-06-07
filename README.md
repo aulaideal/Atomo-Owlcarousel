@@ -1,6 +1,7 @@
 # Atomo "Owl carousel"
 Este átomo para Gantry 5 nos permite incluir la libreria Jquery "Owl Carousel":http://owlcarousel2.github.io/OwlCarousel2/ dentro de su diseño, necesario para el correcto funcionamiento de muchas partículas.
 
+![maxresdefault](https://user-images.githubusercontent.com/9434043/26899697-7e29e490-4b95-11e7-9b5b-12da68f07f55.jpg)
 Instalación
 -----------
 No hemos incluido un instalador ya que deseamos que esta partícula pueda ser usada tanto en Joomla como en Wordpress. 
