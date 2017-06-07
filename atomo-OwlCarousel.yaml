@@ -2,10 +2,6 @@ name: OwlCarousel 2
 description: Plugin Jquery OwlCarousel para Gantry5.
 type: atom
 
-configuration:
-  caching:
-    type: static
-
 form:
   fields:
     enabled:
